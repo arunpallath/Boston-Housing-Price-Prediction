@@ -1,5 +1,5 @@
 # Boston-Housing-Price-Prediction
-Predicting Boston Neighborhood Housing Prices using various Data Mining Techniques
+Predicting Boston Neighborhood Housing Prices using various Data Mining Techniques - Linear Regression, Cross Validation, Regression Tree, Bagging, Random Forest, Boosting
 
 Boston housing data is a data set in package MASS. The data set has 506 rows and 14 columns. This report provides an analysis and evaluation of the factors affecting the median value of the owner-occupied homes in the suburbs of Boston. The in-built data set of Boston Housing Data in package MASS is used for this analysis and various factors about the structural quality, neighbourhood, accessibility, and air pollution such as per capita crime rate by town, proportion of non-retail business acres per town, index of accessibility to radial highways etc are considered for this study.
 Methods of analysis includes the following:
